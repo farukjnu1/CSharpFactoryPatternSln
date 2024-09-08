@@ -49,11 +49,6 @@
     <Compile Include="FactoryPattern\ProductFactory.cs" />
     <Compile Include="FactoryPattern\User.cs" />
     <Compile Include="FactoryPattern\UserFactory.cs" />
-    <Compile Include="Lib\Bike.cs" />
-    <Compile Include="Lib\Car.cs" />
-    <Compile Include="Lib\IVehicle.cs" />
-    <Compile Include="Lib\Rickshaw.cs" />
-    <Compile Include="Lib\VehicleFactory.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\IRepository.cs" />
